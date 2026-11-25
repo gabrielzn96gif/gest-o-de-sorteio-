@@ -1,1 +1,1 @@
-# gest-o-de-sorteio-
+# gestão-de-sorteios
